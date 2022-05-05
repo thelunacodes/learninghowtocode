@@ -108,10 +108,11 @@ pkmons = ["Bulbasaur","Ivysaur","Venusaur","Charmander","Charmeleon","Charizard"
           "Galarian Moltres","Galarian Slowking","Galarian Corsola","Galarian Zigzagoon","Galarian Linoone",
           "Galarian Darumaka","Galarian Darmanitan","Galarian Yaamask","Galarian Stunfisk",
 
-          "Kleavor","Wyrdeer","Basculegion","Sneasler","Overqwil","Hisuian Voltorb","Hisuian Electrode","Hisuian Zorua",
-          "Hisuian Zoroark","Hisuian Braviary","Hisuian Growlithe","Hisuian Arcanine","Hisuian Typhlosion",
-          "Hisuian Qwilfish","Hisuian Sneasel","Hisuian Samurott","Hissuan Lilligant","Hisuian Sliggoo",
-          "Hisuian Goodra","Hisuian Avalugg","Hisuian Decidueye",
+          "Kleavor","Wyrdeer","Basculegion","Sneasler","Overqwil","Ursaluna","Enamorus","Hisuian Voltorb",
+          "Hisuian Electrode","Hisuian Zorua","Hisuian Zoroark","Hisuian Braviary","Hisuian Growlithe",
+          "Hisuian Arcanine","Hisuian Typhlosion","Hisuian Qwilfish","Hisuian Sneasel","Hisuian Samurott",
+          "Hissuan Lilligant","Hisuian Sliggoo","Hisuian Goodra","Hisuian Avalugg","Hisuian Decidueye","Origin Dialga",
+          "Origin Palkia",
 
           ]
 
